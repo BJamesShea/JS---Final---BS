@@ -8,8 +8,7 @@ fetch("data.json")
   .then((data) => {
     console.log("Data:", data);
     displayData(data);
-  })
-  .catch((error) => console.error("Error fetching data:", error));
+  });
 
 function namesCustomers(data) {
   const firstName = data.map((item) => item.firstName);
