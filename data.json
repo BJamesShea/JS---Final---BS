@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Tom",
+    "lastName": "Cruise",
+    "age": 54,
+    "gender": "Male",
+    "phoneNumber": "709-435-5324",
+    "married": true
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Gosling",
+    "age": 43,
+    "gender": "Male",
+    "phoneNumber": "709-232-0098",
+    "married": true
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Stone",
+    "age": 35,
+    "gender": "Female",
+    "phoneNumber": "709-754-5567",
+    "married": true
+  },
+  {
+    "firstName": "Ardent",
+    "lastName": "Pardy",
+    "age": 46,
+    "gender": "Male",
+    "phoneNumber": "709-735-3453",
+    "married": true
+  },
+  {
+    "firstName": "Brandon",
+    "lastName": "Rogers",
+    "age": 34,
+    "gender": "Male",
+    "phoneNumber": "709-739-0543",
+    "married": true
+  }
+]
